@@ -35,3 +35,7 @@ table.main-table {
 .dark {
     background-color: #27374D;
 }
+
+table tr td, table tr th {
+    text-align: center!important;
+}
