@@ -1,2 +1,2 @@
 # ethnus-internship
-Complete list of tasks (basic to advanced) during the MERN internship
+List of all the HTML and CSS tasks during MERN internship.
